@@ -1,0 +1,778 @@
+Собранные данные по продавцам
+============================================================
+
+MagicSpark.shop  (25 карт)
+  • terramorphic expanse....................      4 ₽
+  • thrilling discovery.....................      4 ₽
+  • shimmerdrift vale.......................      5 ₽
+  • take up the shield......................      5 ₽
+  • thrill of possibility...................      5 ₽
+  • tormenting voice........................      5 ₽
+  • bag of holding..........................      5 ₽
+  • slaughter the strong....................      5 ₽
+  • talisman of conviction..................      9 ₽
+  • wall of omens...........................     12 ₽
+  • boros signet............................     12 ₽
+  • zuko, exiled prince.....................     12 ₽
+  • slayers' stronghold.....................     14 ₽
+  • savior of ollenbock.....................     16 ₽
+  • sculpted sunburst.......................     29 ₽
+  • bitter reunion..........................     32 ₽
+  • sol ring................................     32 ₽
+  • spinerock knoll.........................     32 ₽
+  • sanctifier en-vec.......................     60 ₽
+  • seal from existence.....................     62 ₽
+  • urabrask, heretic praetor...............    194 ₽
+  • the war doctor..........................    216 ₽
+  • weathered wayfarer......................    219 ₽
+  • wand of wonder..........................    470 ₽
+  • apostle's blessing......................    509 ₽
+
+angrybottlegnome  (24 карт)
+  • tormenting voice........................      0 ₽
+  • thrill of possibility...................      0 ₽
+  • shimmerdrift vale.......................      1 ₽
+  • terramorphic expanse....................      1 ₽
+  • take up the shield......................      1 ₽
+  • bag of holding..........................      2 ₽
+  • seal from existence.....................      2 ₽
+  • slaughter the strong....................      2 ₽
+  • thrilling discovery.....................      3 ₽
+  • zuko, exiled prince.....................      3 ₽
+  • apostle's blessing......................      4 ₽
+  • boros signet............................      6 ₽
+  • bitter reunion..........................      8 ₽
+  • wall of omens...........................     15 ₽
+  • sol ring................................     29 ₽
+  • anger of the gods.......................     33 ₽
+  • savior of ollenbock.....................     33 ₽
+  • sculpted sunburst.......................     33 ₽
+  • talisman of conviction..................     33 ₽
+  • surge of salvation......................     42 ₽
+  • spinerock knoll.........................    100 ₽
+  • the war doctor..........................    100 ₽
+  • avatar's wrath..........................    117 ₽
+  • weathered wayfarer......................    200 ₽
+
+Dellacrua  (21 карт)
+  • take up the shield......................      5 ₽
+  • thrill of possibility...................      8 ₽
+  • bag of holding..........................     10 ₽
+  • terramorphic expanse....................     10 ₽
+  • zuko, exiled prince.....................     10 ₽
+  • seal from existence.....................     12 ₽
+  • slayers' stronghold.....................     12 ₽
+  • spinerock knoll.........................     17 ₽
+  • shimmerdrift vale.......................     20 ₽
+  • sol ring................................     20 ₽
+  • thrilling discovery.....................     25 ₽
+  • slaughter the strong....................     30 ₽
+  • talisman of conviction..................     30 ₽
+  • boros signet............................     50 ₽
+  • wall of omens...........................     50 ₽
+  • surge of salvation......................     75 ₽
+  • anger of the gods.......................    100 ₽
+  • savior of ollenbock.....................    100 ₽
+  • sculpted sunburst.......................    100 ₽
+  • urabrask, heretic praetor...............    500 ₽
+  • sanctifier en-vec.......................   1200 ₽
+
+MtgRussia.com  (21 карт)
+  • terramorphic expanse....................      4 ₽
+  • tormenting voice........................      4 ₽
+  • shimmerdrift vale.......................      4 ₽
+  • take up the shield......................      4 ₽
+  • thrill of possibility...................      4 ₽
+  • thrilling discovery.....................      4 ₽
+  • bag of holding..........................      5 ₽
+  • slaughter the strong....................      5 ₽
+  • zuko, exiled prince.....................      5 ₽
+  • seal from existence.....................      6 ₽
+  • wall of omens...........................      7 ₽
+  • slayers' stronghold.....................      9 ₽
+  • boros signet............................     11 ₽
+  • talisman of conviction..................     12 ₽
+  • spinerock knoll.........................     15 ₽
+  • sanctifier en-vec.......................     24 ₽
+  • apostle's blessing......................     26 ₽
+  • sol ring................................     27 ₽
+  • savior of ollenbock.....................     55 ₽
+  • avatar's wrath..........................    190 ₽
+  • weathered wayfarer......................    280 ₽
+
+mymagic.ru  (19 карт)
+  • tormenting voice........................      0 ₽
+  • shimmerdrift vale.......................      1 ₽
+  • thrill of possibility...................      2 ₽
+  • seal from existence.....................      2 ₽
+  • terramorphic expanse....................      2 ₽
+  • thrilling discovery.....................      2 ₽
+  • take up the shield......................      2 ₽
+  • slaughter the strong....................      3 ₽
+  • bag of holding..........................      3 ₽
+  • wall of omens...........................      5 ₽
+  • boros signet............................      5 ₽
+  • slayers' stronghold.....................      9 ₽
+  • surge of salvation......................     10 ₽
+  • spinerock knoll.........................     18 ₽
+  • talisman of conviction..................     23 ₽
+  • savior of ollenbock.....................     26 ₽
+  • sol ring................................     32 ₽
+  • sculpted sunburst.......................     44 ₽
+  • sanctifier en-vec.......................   1359 ₽
+
+mtgsale  (17 карт)
+  • tormenting voice........................      1 ₽
+  • thrill of possibility...................      1 ₽
+  • take up the shield......................      1 ₽
+  • terramorphic expanse....................      1 ₽
+  • shimmerdrift vale.......................      1 ₽
+  • bag of holding..........................      1 ₽
+  • thrilling discovery.....................      1 ₽
+  • talisman of conviction..................      2 ₽
+  • slaughter the strong....................      3 ₽
+  • zuko, exiled prince.....................      6 ₽
+  • boros signet............................      7 ₽
+  • wall of omens...........................     12 ₽
+  • sculpted sunburst.......................     13 ₽
+  • bitter reunion..........................     55 ₽
+  • slayers' stronghold.....................     65 ₽
+  • surge of salvation......................     70 ₽
+  • sol ring................................   1090 ₽
+
+Barygan  (16 карт)
+  • terramorphic expanse....................      5 ₽
+  • boros signet............................      8 ₽
+  • thrill of possibility...................      8 ₽
+  • thrilling discovery.....................      8 ₽
+  • tormenting voice........................      8 ₽
+  • take up the shield......................      9 ₽
+  • wall of omens...........................     12 ₽
+  • apostle's blessing......................     16 ₽
+  • bitter reunion..........................     19 ₽
+  • slayers' stronghold.....................     25 ₽
+  • sol ring................................     30 ₽
+  • anger of the gods.......................     38 ₽
+  • sanctifier en-vec.......................     38 ₽
+  • talisman of conviction..................     80 ₽
+  • weathered wayfarer......................    150 ₽
+  • urabrask, heretic praetor...............    500 ₽
+
+Armadale  (15 карт)
+  • terramorphic expanse....................      3 ₽
+  • thrill of possibility...................      5 ₽
+  • slaughter the strong....................      6 ₽
+  • thrilling discovery.....................      6 ₽
+  • boros signet............................      8 ₽
+  • savior of ollenbock.....................      8 ₽
+  • tormenting voice........................     10 ₽
+  • wall of omens...........................     10 ₽
+  • bitter reunion..........................     11 ₽
+  • talisman of conviction..................     15 ₽
+  • bag of holding..........................     20 ₽
+  • anger of the gods.......................     30 ₽
+  • spinerock knoll.........................     60 ₽
+  • sol ring................................     70 ₽
+  • weathered wayfarer......................    900 ₽
+
+Lish  (14 карт)
+  • thrill of possibility...................     12 ₽
+  • thrilling discovery.....................     12 ₽
+  • anger of the gods.......................     30 ₽
+  • bitter reunion..........................     40 ₽
+  • wall of omens...........................     45 ₽
+  • shimmerdrift vale.......................     60 ₽
+  • weathered wayfarer......................     67 ₽
+  • sanctifier en-vec.......................     70 ₽
+  • talisman of conviction..................     70 ₽
+  • savior of ollenbock.....................     80 ₽
+  • surge of salvation......................    150 ₽
+  • bag of holding..........................    200 ₽
+  • sol ring................................    350 ₽
+  • terramorphic expanse....................    450 ₽
+
+winkelwagentje  (14 карт)
+  • shimmerdrift vale.......................      4 ₽
+  • bag of holding..........................      6 ₽
+  • terramorphic expanse....................     10 ₽
+  • thrill of possibility...................     10 ₽
+  • tormenting voice........................     15 ₽
+  • slaughter the strong....................     18 ₽
+  • slayers' stronghold.....................     30 ₽
+  • savior of ollenbock.....................     35 ₽
+  • wall of omens...........................     36 ₽
+  • talisman of conviction..................     40 ₽
+  • boros signet............................     51 ₽
+  • azor's gateway..........................     65 ₽
+  • anger of the gods.......................     78 ₽
+  • sol ring................................    100 ₽
+
+Pioneer  (13 карт)
+  • bag of holding..........................     10 ₽
+  • boros signet............................     13 ₽
+  • anger of the gods.......................     18 ₽
+  • terramorphic expanse....................     20 ₽
+  • wall of omens...........................     20 ₽
+  • talisman of conviction..................     25 ₽
+  • zuko, exiled prince.....................     25 ₽
+  • apostle's blessing......................     50 ₽
+  • sculpted sunburst.......................     50 ₽
+  • surge of salvation......................     90 ₽
+  • sol ring................................    100 ₽
+  • weathered wayfarer......................    150 ₽
+  • avatar's wrath..........................    400 ₽
+
+Shav  (13 карт)
+  • shimmerdrift vale.......................      2 ₽
+  • slaughter the strong....................      2 ₽
+  • terramorphic expanse....................      2 ₽
+  • thrill of possibility...................      2 ₽
+  • thrilling discovery.....................      2 ₽
+  • bag of holding..........................      5 ₽
+  • boros signet............................     10 ₽
+  • savior of ollenbock.....................     12 ₽
+  • anger of the gods.......................     18 ₽
+  • sol ring................................     18 ₽
+  • talisman of conviction..................     18 ₽
+  • sanctifier en-vec.......................     32 ₽
+  • urabrask, heretic praetor...............     88 ₽
+
+autumnsmagic.com  (13 карт)
+  • thrill of possibility...................      1 ₽
+  • tormenting voice........................      1 ₽
+  • shimmerdrift vale.......................      1 ₽
+  • thrilling discovery.....................      1 ₽
+  • terramorphic expanse....................      2 ₽
+  • bag of holding..........................      2 ₽
+  • slaughter the strong....................      5 ₽
+  • boros signet............................      6 ₽
+  • take up the shield......................      6 ₽
+  • talisman of conviction..................      6 ₽
+  • wall of omens...........................      8 ₽
+  • seal from existence.....................     12 ₽
+  • spinerock knoll.........................     77 ₽
+
+Satanas_Concubine  (12 карт)
+  • slayers' stronghold.....................     10 ₽
+  • wall of omens...........................     10 ₽
+  • boros signet............................     13 ₽
+  • talisman of conviction..................     13 ₽
+  • anger of the gods.......................     22 ₽
+  • sanctifier en-vec.......................     26 ₽
+  • sol ring................................     26 ₽
+  • slaughter the strong....................     39 ₽
+  • tormenting voice........................     39 ₽
+  • thrill of possibility...................     49 ₽
+  • weathered wayfarer......................    105 ₽
+  • bag of holding..........................    158 ₽
+
+akiravvv  (12 карт)
+  • thrill of possibility...................      1 ₽
+  • terramorphic expanse....................      2 ₽
+  • shimmerdrift vale.......................      4 ₽
+  • thrilling discovery.....................      4 ₽
+  • bag of holding..........................      6 ₽
+  • apostle's blessing......................     10 ₽
+  • boros signet............................     30 ₽
+  • spinerock knoll.........................     40 ₽
+  • savior of ollenbock.....................     55 ₽
+  • weathered wayfarer......................    200 ₽
+  • avatar's wrath..........................    400 ₽
+  • sanctifier en-vec.......................    500 ₽
+
+spellmarket.ru  (12 карт)
+  • tormenting voice........................      0 ₽
+  • bag of holding..........................      0 ₽
+  • terramorphic expanse....................      1 ₽
+  • thrill of possibility...................      1 ₽
+  • thrilling discovery.....................      2 ₽
+  • take up the shield......................      2 ₽
+  • talisman of conviction..................      2 ₽
+  • slaughter the strong....................      3 ₽
+  • wall of omens...........................      3 ₽
+  • slayers' stronghold.....................     13 ₽
+  • shimmerdrift vale.......................     23 ₽
+  • boros signet............................     42 ₽
+
+ava238  (10 карт)
+  • terramorphic expanse....................      2 ₽
+  • take up the shield......................      3 ₽
+  • thrill of possibility...................      4 ₽
+  • slaughter the strong....................      8 ₽
+  • shimmerdrift vale.......................     10 ₽
+  • thrilling discovery.....................     10 ₽
+  • tormenting voice........................     10 ₽
+  • talisman of conviction..................     15 ₽
+  • boros signet............................     20 ₽
+  • anger of the gods.......................     32 ₽
+
+Gogasik  (10 карт)
+  • bag of holding..........................      2 ₽
+  • terramorphic expanse....................      2 ₽
+  • tormenting voice........................      2 ₽
+  • slaughter the strong....................      5 ₽
+  • thrill of possibility...................      5 ₽
+  • wall of omens...........................      6 ₽
+  • sanctifier en-vec.......................     14 ₽
+  • slayers' stronghold.....................     30 ₽
+  • spinerock knoll.........................     40 ₽
+  • apostle's blessing......................     50 ₽
+
+MR.DK  (9 карт)
+  • anger of the gods.......................     10 ₽
+  • bag of holding..........................     10 ₽
+  • thrilling discovery.....................     10 ₽
+  • sanctifier en-vec.......................     12 ₽
+  • spinerock knoll.........................     13 ₽
+  • slayers' stronghold.....................     15 ₽
+  • tormenting voice........................     19 ₽
+  • boros signet............................     20 ₽
+  • wall of omens...........................     50 ₽
+
+lifeincoma  (9 карт)
+  • bag of holding..........................      2 ₽
+  • take up the shield......................      5 ₽
+  • seal from existence.....................     15 ₽
+  • thrill of possibility...................     15 ₽
+  • savior of ollenbock.....................     82 ₽
+  • anger of the gods.......................     95 ₽
+  • weathered wayfarer......................    122 ₽
+  • wall of omens...........................    145 ₽
+  • surge of salvation......................    230 ₽
+
+Somi  (8 карт)
+  • bag of holding..........................      5 ₽
+  • slaughter the strong....................      8 ₽
+  • tormenting voice........................     15 ₽
+  • boros signet............................     20 ₽
+  • slayers' stronghold.....................     30 ₽
+  • anger of the gods.......................     40 ₽
+  • savior of ollenbock.....................     50 ₽
+  • sol ring................................     75 ₽
+
+Frostman  (8 карт)
+  • thrill of possibility...................      2 ₽
+  • terramorphic expanse....................     10 ₽
+  • bag of holding..........................     12 ₽
+  • sanctifier en-vec.......................     15 ₽
+  • wall of omens...........................     15 ₽
+  • sol ring................................     20 ₽
+  • anger of the gods.......................     25 ₽
+  • slaughter the strong....................     25 ₽
+
+Irmax  (8 карт)
+  • thrill of possibility...................      2 ₽
+  • terramorphic expanse....................      2 ₽
+  • thrilling discovery.....................      3 ₽
+  • shimmerdrift vale.......................     10 ₽
+  • boros signet............................     20 ₽
+  • zuko, exiled prince.....................     20 ₽
+  • bitter reunion..........................     30 ₽
+  • wand of wonder..........................    200 ₽
+
+saharoff  (8 карт)
+  • tormenting voice........................     12 ₽
+  • terramorphic expanse....................     14 ₽
+  • shimmerdrift vale.......................     15 ₽
+  • take up the shield......................     15 ₽
+  • thrilling discovery.....................     15 ₽
+  • bitter reunion..........................     30 ₽
+  • wall of omens...........................     40 ₽
+  • savior of ollenbock.....................    100 ₽
+
+loudangrydead  (8 карт)
+  • terramorphic expanse....................      2 ₽
+  • shimmerdrift vale.......................      5 ₽
+  • thrill of possibility...................      5 ₽
+  • take up the shield......................      8 ₽
+  • tormenting voice........................     10 ₽
+  • wall of omens...........................     10 ₽
+  • slaughter the strong....................     15 ₽
+  • zuko, exiled prince.....................     15 ₽
+
+Коленька  (7 карт)
+  • wall of omens...........................     15 ₽
+  • tormenting voice........................     20 ₽
+  • bitter reunion..........................     30 ₽
+  • apostle's blessing......................     40 ₽
+  • bag of holding..........................     40 ₽
+  • savior of ollenbock.....................     40 ₽
+  • sanctifier en-vec.......................     50 ₽
+
+Umezawa  (7 карт)
+  • terramorphic expanse....................      1 ₽
+  • talisman of conviction..................      5 ₽
+  • wall of omens...........................     15 ₽
+  • sol ring................................     75 ₽
+  • weathered wayfarer......................     90 ₽
+  • wand of wonder..........................    125 ₽
+  • avatar's wrath..........................    200 ₽
+
+elbegast  (6 карт)
+  • terramorphic expanse....................     17 ₽
+  • wall of omens...........................     19 ₽
+  • surge of salvation......................     56 ₽
+  • talisman of conviction..................     81 ₽
+  • anger of the gods.......................    225 ₽
+  • sol ring................................   3200 ₽
+
+Баллиоз  (6 карт)
+  • sol ring................................      0 ₽
+  • apostle's blessing......................     10 ₽
+  • boros signet............................     36 ₽
+  • wall of omens...........................     44 ₽
+  • spinerock knoll.........................     59 ₽
+  • savior of ollenbock.....................    285 ₽
+
+AlexStuff  (6 карт)
+  • terramorphic expanse....................     25 ₽
+  • sculpted sunburst.......................     50 ₽
+  • slaughter the strong....................     50 ₽
+  • savior of ollenbock.....................     90 ₽
+  • weathered wayfarer......................    100 ₽
+  • avatar's wrath..........................    370 ₽
+
+Aminishiki  (6 карт)
+  • terramorphic expanse....................      8 ₽
+  • thrill of possibility...................     20 ₽
+  • tormenting voice........................     20 ₽
+  • bag of holding..........................     30 ₽
+  • take up the shield......................     30 ₽
+  • wall of omens...........................     80 ₽
+
+RomanPK  (6 карт)
+  • thrill of possibility...................     20 ₽
+  • wall of omens...........................     25 ₽
+  • slayers' stronghold.....................     35 ₽
+  • bitter reunion..........................     36 ₽
+  • boros signet............................     45 ₽
+  • surge of salvation......................     80 ₽
+
+71Region  (5 карт)
+  • wall of omens...........................      5 ₽
+  • anger of the gods.......................    100 ₽
+  • sol ring................................    120 ₽
+  • thrilling discovery.....................    150 ₽
+  • terramorphic expanse....................    400 ₽
+
+Gregon  (5 карт)
+  • bag of holding..........................     10 ₽
+  • boros signet............................     20 ₽
+  • talisman of conviction..................     30 ₽
+  • apostle's blessing......................     40 ₽
+  • sol ring................................     40 ₽
+
+Sladkov  (5 карт)
+  • sol ring................................     42 ₽
+  • avatar's wrath..........................    202 ₽
+  • weathered wayfarer......................    280 ₽
+  • wall of omens...........................    346 ₽
+  • talisman of conviction..................    376 ₽
+
+Makl  (5 карт)
+  • bag of holding..........................      1 ₽
+  • thrill of possibility...................      5 ₽
+  • boros signet............................     12 ₽
+  • savior of ollenbock.....................     60 ₽
+  • wall of omens...........................     80 ₽
+
+Zlobka  (5 карт)
+  • thrill of possibility...................      2 ₽
+  • terramorphic expanse....................      5 ₽
+  • sanctifier en-vec.......................     12 ₽
+  • slayers' stronghold.....................     30 ₽
+  • tormenting voice........................     50 ₽
+
+Крабопёс  (4 карт)
+  • bag of holding..........................     10 ₽
+  • wall of omens...........................     10 ₽
+  • anger of the gods.......................     35 ₽
+  • sanctifier en-vec.......................    450 ₽
+
+arhZVS  (4 карт)
+  • wall of omens...........................     11 ₽
+  • anger of the gods.......................     40 ₽
+  • sol ring................................     69 ₽
+  • weathered wayfarer......................    105 ₽
+
+rezonko  (4 карт)
+  • zuko, exiled prince.....................     15 ₽
+  • shimmerdrift vale.......................     20 ₽
+  • bitter reunion..........................    100 ₽
+  • avatar's wrath..........................    275 ₽
+
+SMERSHforce  (4 карт)
+  • bag of holding..........................      3 ₽
+  • slaughter the strong....................     10 ₽
+  • sculpted sunburst.......................     15 ₽
+  • talisman of conviction..................     30 ₽
+
+kurono  (4 карт)
+  • thrill of possibility...................      5 ₽
+  • thrilling discovery.....................     10 ₽
+  • bag of holding..........................     15 ₽
+  • seal from existence.....................     70 ₽
+
+Animek  (4 карт)
+  • thrilling discovery.....................      1 ₽
+  • bitter reunion..........................     10 ₽
+  • sol ring................................    100 ₽
+  • weathered wayfarer......................    100 ₽
+
+Maxim Letny  (4 карт)
+  • thrill of possibility...................      4 ₽
+  • savior of ollenbock.....................     30 ₽
+  • weathered wayfarer......................     90 ₽
+  • wand of wonder..........................    115 ₽
+
+Wonderslav  (4 карт)
+  • thrill of possibility...................      1 ₽
+  • shimmerdrift vale.......................      5 ₽
+  • terramorphic expanse....................     10 ₽
+  • weathered wayfarer......................    130 ₽
+
+Максим Шикин  (4 карт)
+  • shimmerdrift vale.......................      2 ₽
+  • thrill of possibility...................      2 ₽
+  • tormenting voice........................      3 ₽
+  • surge of salvation......................    150 ₽
+
+LordGidros  (4 карт)
+  • shimmerdrift vale.......................     15 ₽
+  • terramorphic expanse....................     15 ₽
+  • thrill of possibility...................     20 ₽
+  • surge of salvation......................     80 ₽
+
+Valentina  (4 карт)
+  • terramorphic expanse....................     20 ₽
+  • summoner's sending......................     25 ₽
+  • sol ring................................    100 ₽
+  • weathered wayfarer......................    300 ₽
+
+stoss  (4 карт)
+  • terramorphic expanse....................     35 ₽
+  • thrill of possibility...................     37 ₽
+  • talisman of conviction..................     50 ₽
+  • urabrask, heretic praetor...............    399 ₽
+
+TobiNax  (3 карт)
+  • thrilling discovery.....................     10 ₽
+  • anger of the gods.......................     30 ₽
+  • apostle's blessing......................     40 ₽
+
+Monger  (3 карт)
+  • apostle's blessing......................     13 ₽
+  • tormenting voice........................     20 ₽
+  • boros signet............................     50 ₽
+
+Дмитрий Капустян  (3 карт)
+  • savior of ollenbock.....................     15 ₽
+  • avatar's wrath..........................    290 ₽
+  • wand of wonder.......................... 204130 ₽
+
+Arsonist  (3 карт)
+  • bag of holding..........................     10 ₽
+  • slaughter the strong....................     15 ₽
+  • talisman of conviction..................    450 ₽
+
+JeyRix  (3 карт)
+  • bag of holding..........................      5 ₽
+  • wall of omens...........................      8 ₽
+  • slaughter the strong....................     30 ₽
+
+bigmagic  (3 карт)
+  • tormenting voice........................      1 ₽
+  • thrill of possibility...................     46 ₽
+  • bag of holding..........................     49 ₽
+
+danilov.a95  (3 карт)
+  • terramorphic expanse....................      1 ₽
+  • sanctifier en-vec.......................     10 ₽
+  • zuko, exiled prince.....................     25 ₽
+
+LCr  (3 карт)
+  • thrill of possibility...................     10 ₽
+  • tormenting voice........................     10 ₽
+  • seal from existence.....................     15 ₽
+
+Kanycma  (3 карт)
+  • shimmerdrift vale.......................     20 ₽
+  • surge of salvation......................     50 ₽
+  • sol ring................................    700 ₽
+
+iamai  (3 карт)
+  • shimmerdrift vale.......................      5 ₽
+  • thrill of possibility...................     20 ₽
+  • talisman of conviction..................     40 ₽
+
+LuRt0  (3 карт)
+  • terramorphic expanse....................      7 ₽
+  • sol ring................................     10 ₽
+  • wall of omens...........................     11 ₽
+
+Sol  (3 карт)
+  • wall of omens...........................    120 ₽
+  • sol ring................................    315 ₽
+  • talisman of conviction..................    352 ₽
+
+Damagehead  (3 карт)
+  • talisman of conviction..................    100 ₽
+  • surge of salvation......................    250 ₽
+  • sol ring................................    700 ₽
+
+Серёга Нечаев  (3 карт)
+  • take up the shield......................     34 ₽
+  • thrill of possibility...................    210 ₽
+  • terramorphic expanse....................    357 ₽
+
+Impi  (2 карт)
+  • anger of the gods.......................     50 ₽
+  • slayers' stronghold.....................    400 ₽
+
+golde1689  (2 карт)
+  • thrill of possibility...................      2 ₽
+  • avatar's wrath..........................    250 ₽
+
+Паша Лаврук  (2 карт)
+  • bitter reunion..........................     15 ₽
+  • avatar's wrath..........................    300 ₽
+
+vrotmnenogi  (2 карт)
+  • bitter reunion..........................    100 ₽
+  • sol ring................................   1600 ₽
+
+Sphynxx  (2 карт)
+  • boros signet............................      2 ₽
+  • terramorphic expanse....................     20 ₽
+
+XtazY_Fire  (2 карт)
+  • boros signet............................     30 ₽
+  • sol ring................................    100 ₽
+
+capporicci  (2 карт)
+  • boros signet............................     18 ₽
+  • sanctifier en-vec.......................    649 ₽
+
+KeKs_TM  (2 карт)
+  • sanctifier en-vec.......................     45 ₽
+  • sol ring................................   1500 ₽
+
+crzmvx  (2 карт)
+  • sanctifier en-vec.......................     50 ₽
+  • thrilling discovery.....................    300 ₽
+
+egaboj  (2 карт)
+  • savior of ollenbock.....................     30 ₽
+  • talisman of conviction..................    120 ₽
+
+detonation  (2 карт)
+  • savior of ollenbock.....................     34 ₽
+  • wall of omens...........................     39 ₽
+
+Евгений Зитев  (2 карт)
+  • seal from existence.....................      7 ₽
+  • thrill of possibility...................     10 ₽
+
+Bawerus  (2 карт)
+  • surge of salvation......................     95 ₽
+  • sol ring................................   1500 ₽
+
+Константин Бурбаев  (2 карт)
+  • wall of omens...........................     90 ₽
+  • terramorphic expanse....................    350 ₽
+
+Packsoon  (2 карт)
+  • weathered wayfarer......................    199 ₽
+  • thrill of possibility...................    449 ₽
+
+trollmann  (2 карт)
+  • wall of omens...........................     30 ₽
+  • weathered wayfarer......................    195 ₽
+
+GrannyCola  (1 карт)
+  • anger of the gods.......................     30 ₽
+
+Wladimir24  (1 карт)
+  • anger of the gods.......................     15 ₽
+
+frypan  (1 карт)
+  • anger of the gods.......................    200 ₽
+
+konst  (1 карт)
+  • avatar's wrath..........................    500 ₽
+
+Джаман  (1 карт)
+  • avatar's wrath..........................    800 ₽
+
+kovboy010  (1 карт)
+  • boros signet............................     20 ₽
+
+for2na  (1 карт)
+  • boros signet............................      8 ₽
+
+YurgeN  (1 карт)
+  • sanctifier en-vec.......................     17 ₽
+
+Dellmer  (1 карт)
+  • sanctifier en-vec.......................    150 ₽
+
+Tarosskiy  (1 карт)
+  • sanctifier en-vec.......................    200 ₽
+
+Mrm83  (1 карт)
+  • sanctifier en-vec.......................     67 ₽
+
+Infernalracer  (1 карт)
+  • savior of ollenbock.....................    120 ₽
+
+saggitarius_magic  (1 карт)
+  • sol ring................................     70 ₽
+
+Kotka  (1 карт)
+  • sol ring................................    100 ₽
+
+Бешенный опоссум  (1 карт)
+  • sol ring................................     25 ₽
+
+Freak  (1 карт)
+  • sol ring................................    900 ₽
+
+pdd.  (1 карт)
+  • sol ring................................    900 ₽
+
+Тёмик  (1 карт)
+  • sol ring................................    325 ₽
+
+G.M.  (1 карт)
+  • sol ring................................  33000 ₽
+
+Krypt  (1 карт)
+  • spinerock knoll.........................     60 ₽
+
+Dim_Diamond  (1 карт)
+  • take up the shield......................     25 ₽
+
+Orc  (1 карт)
+  • thrill of possibility...................      6 ₽
+
+team  (1 карт)
+  • thrilling discovery.....................      5 ₽
+
+Ervin  (1 карт)
+  • tormenting voice........................     10 ₽
+
+arutr  (1 карт)
+  • urabrask, heretic praetor...............    350 ₽
+
+Disper  (1 карт)
+  • wall of omens...........................      5 ₽
+
+d1nro  (1 карт)
+  • wall of omens...........................      6 ₽
+
+Fantasts  (1 карт)
+  • wall of omens...........................     70 ₽
+
+Шепард  (1 карт)
+  • weathered wayfarer......................    150 ₽
+
